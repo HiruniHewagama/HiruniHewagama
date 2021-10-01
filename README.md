@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HiruniHewagama
-- 👀 I’m interested in Music
+- 👀 I’m interested in Coding & Music
 - 🌱 I’m currently learning Advanced Level
-- 💞️ I’m looking to collaborate on More Projects
+- 💞️ I’m looking to collaborate on More Open Source Projects
 - 📫 How to reach me hrhewagama01@gmail.com
 
 <!---
